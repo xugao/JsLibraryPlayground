@@ -6,5 +6,6 @@
 ## Build
 ```npm run build```
 
-## start localhost
+## Start localhost
 ```npm run start```
+
